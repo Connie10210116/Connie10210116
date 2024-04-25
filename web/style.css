@@ -1,0 +1,14 @@
+.heroimg{
+    background-image: url(last.png);
+    background-size: cover;
+}
+
+
+
+
+
+.carousel-caption h5,
+.carousel-caption p {
+    color: #fff; /* 文字顏色 */
+}
+
